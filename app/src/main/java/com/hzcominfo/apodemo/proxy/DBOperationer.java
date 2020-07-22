@@ -7,7 +7,7 @@ import android.util.Log;
  */
 public class DBOperationer implements DBOperation {
 
-    public static final String TAG = "MainActivity";
+    private static final String TAG = "MainActivity";
 
     @Override
     public void add() {
